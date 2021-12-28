@@ -5,7 +5,7 @@
   },
   "projects": {
     "C:\\Users\\Tom Dagan\\Documents\\GitHub\\MercurySlackAPI\\MercurySlackAPI\\MercurySlackAPI.csproj": {
-      "version": "1.1.0",
+      "version": "1.1.1",
       "restore": {
         "projectUniqueName": "C:\\Users\\Tom Dagan\\Documents\\GitHub\\MercurySlackAPI\\MercurySlackAPI\\MercurySlackAPI.csproj",
         "projectName": "MercurySlackAPI",
@@ -44,10 +44,6 @@
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.1, )"
-            },
-            "Pagination": {
-              "target": "Package",
-              "version": "[3.0.0.3, )"
             }
           },
           "imports": [

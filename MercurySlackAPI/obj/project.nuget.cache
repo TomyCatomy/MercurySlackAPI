@@ -1,11 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "em/uBeggKw5szi/N6KKW3g4d1hoDgNM0O/P1Dpv7ZzA2d9vuVLsRuEhJ0P5w3dLgqW0oQdeaZ5KudkC781ySGw==",
+  "dgSpecHash": "VfPJ4SzzvkVjsqlTfFLwP9cZ7Lhehwvp+6r4TfHqqT0V4f4EvjNBiACwWCI82zXicH+iviCkFtGfzp9WVTI4WA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Tom Dagan\\Documents\\GitHub\\MercurySlackAPI\\MercurySlackAPI\\MercurySlackAPI.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Tom Dagan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
-    "C:\\Users\\Tom Dagan\\.nuget\\packages\\pagination\\3.0.0.3\\pagination.3.0.0.3.nupkg.sha512"
+    "C:\\Users\\Tom Dagan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }

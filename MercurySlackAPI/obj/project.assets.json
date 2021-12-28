@@ -10,15 +10,6 @@
         "runtime": {
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
-      },
-      "Pagination/3.0.0.3": {
-        "type": "package",
-        "compile": {
-          "lib/netcoreapp3.1/Pagination.dll": {}
-        },
-        "runtime": {
-          "lib/netcoreapp3.1/Pagination.dll": {}
-        }
       }
     }
   },
@@ -49,33 +40,18 @@
         "newtonsoft.json.nuspec",
         "packageIcon.png"
       ]
-    },
-    "Pagination/3.0.0.3": {
-      "sha512": "nsLHxbCDKwmCMBBLZ8L71Idv3DNu3i6gttrJt6mANq0CMpeQAM5WnqdSQc2QuJpcbUXbl3hCGDl0z9Dh5qlsOQ==",
-      "type": "package",
-      "path": "pagination/3.0.0.3",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/net40/Pagination.dll",
-        "lib/net45/Pagination.dll",
-        "lib/netcoreapp3.1/Pagination.dll",
-        "pagination.3.0.0.3.nupkg.sha512",
-        "pagination.nuspec"
-      ]
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Newtonsoft.Json >= 13.0.1",
-      "Pagination >= 3.0.0.3"
+      "Newtonsoft.Json >= 13.0.1"
     ]
   },
   "packageFolders": {
     "C:\\Users\\Tom Dagan\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.1.0",
+    "version": "1.1.1",
     "restore": {
       "projectUniqueName": "C:\\Users\\Tom Dagan\\Documents\\GitHub\\MercurySlackAPI\\MercurySlackAPI\\MercurySlackAPI.csproj",
       "projectName": "MercurySlackAPI",
@@ -114,10 +90,6 @@
           "Newtonsoft.Json": {
             "target": "Package",
             "version": "[13.0.1, )"
-          },
-          "Pagination": {
-            "target": "Package",
-            "version": "[3.0.0.3, )"
           }
         },
         "imports": [
