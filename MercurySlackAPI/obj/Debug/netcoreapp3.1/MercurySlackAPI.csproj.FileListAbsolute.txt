@@ -8,3 +8,13 @@ C:\Users\Tom Dagan\source\repos\MercurySlackAPI\MercurySlackAPI\obj\Debug\netcor
 C:\Users\Tom Dagan\source\repos\MercurySlackAPI\MercurySlackAPI\obj\Debug\netcoreapp3.1\MercurySlackAPI.dll
 C:\Users\Tom Dagan\source\repos\MercurySlackAPI\MercurySlackAPI\obj\Debug\netcoreapp3.1\MercurySlackAPI.pdb
 C:\Users\Tom Dagan\source\repos\MercurySlackAPI\MercurySlackAPI\obj\Debug\netcoreapp3.1\MercurySlackAPI.csproj.AssemblyReference.cache
+C:\Users\Tom Dagan\Documents\GitHub\MercurySlackAPI\MercurySlackAPI\bin\Debug\netcoreapp3.1\MercurySlackAPI.deps.json
+C:\Users\Tom Dagan\Documents\GitHub\MercurySlackAPI\MercurySlackAPI\bin\Debug\netcoreapp3.1\MercurySlackAPI.dll
+C:\Users\Tom Dagan\Documents\GitHub\MercurySlackAPI\MercurySlackAPI\bin\Debug\netcoreapp3.1\MercurySlackAPI.pdb
+C:\Users\Tom Dagan\Documents\GitHub\MercurySlackAPI\MercurySlackAPI\obj\Debug\netcoreapp3.1\MercurySlackAPI.csproj.AssemblyReference.cache
+C:\Users\Tom Dagan\Documents\GitHub\MercurySlackAPI\MercurySlackAPI\obj\Debug\netcoreapp3.1\MercurySlackAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tom Dagan\Documents\GitHub\MercurySlackAPI\MercurySlackAPI\obj\Debug\netcoreapp3.1\MercurySlackAPI.AssemblyInfoInputs.cache
+C:\Users\Tom Dagan\Documents\GitHub\MercurySlackAPI\MercurySlackAPI\obj\Debug\netcoreapp3.1\MercurySlackAPI.AssemblyInfo.cs
+C:\Users\Tom Dagan\Documents\GitHub\MercurySlackAPI\MercurySlackAPI\obj\Debug\netcoreapp3.1\MercurySlackAPI.csproj.CoreCompileInputs.cache
+C:\Users\Tom Dagan\Documents\GitHub\MercurySlackAPI\MercurySlackAPI\obj\Debug\netcoreapp3.1\MercurySlackAPI.dll
+C:\Users\Tom Dagan\Documents\GitHub\MercurySlackAPI\MercurySlackAPI\obj\Debug\netcoreapp3.1\MercurySlackAPI.pdb

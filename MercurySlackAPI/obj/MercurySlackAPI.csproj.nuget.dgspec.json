@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tom Dagan\\source\\repos\\MercurySlackAPI\\MercurySlackAPI\\MercurySlackAPI.csproj": {}
+    "C:\\Users\\Tom Dagan\\Documents\\GitHub\\MercurySlackAPI\\MercurySlackAPI\\MercurySlackAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tom Dagan\\source\\repos\\MercurySlackAPI\\MercurySlackAPI\\MercurySlackAPI.csproj": {
-      "version": "1.0.5",
+    "C:\\Users\\Tom Dagan\\Documents\\GitHub\\MercurySlackAPI\\MercurySlackAPI\\MercurySlackAPI.csproj": {
+      "version": "1.1.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tom Dagan\\source\\repos\\MercurySlackAPI\\MercurySlackAPI\\MercurySlackAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Tom Dagan\\Documents\\GitHub\\MercurySlackAPI\\MercurySlackAPI\\MercurySlackAPI.csproj",
         "projectName": "MercurySlackAPI",
-        "projectPath": "C:\\Users\\Tom Dagan\\source\\repos\\MercurySlackAPI\\MercurySlackAPI\\MercurySlackAPI.csproj",
+        "projectPath": "C:\\Users\\Tom Dagan\\Documents\\GitHub\\MercurySlackAPI\\MercurySlackAPI\\MercurySlackAPI.csproj",
         "packagesPath": "C:\\Users\\Tom Dagan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tom Dagan\\source\\repos\\MercurySlackAPI\\MercurySlackAPI\\obj\\",
+        "outputPath": "C:\\Users\\Tom Dagan\\Documents\\GitHub\\MercurySlackAPI\\MercurySlackAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tom Dagan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,8 +22,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.telerik.com/nuget": {}
+          "C:\\Users\\Tom Dagan\\source\\repos\\MercurySlackAPI\\MercurySlackAPI\\bin\\Debug": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {

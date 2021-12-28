@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MercurySlackAPI</id>
+    <version>1.1.0</version>
+    <authors>Tom Dagan</authors>
+    <license type="file">LICENSE-2.0.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <description>A convinient package to make the Slack API easier to use than ever before with dotnet:)</description>
+    <tags>Slack, SlackAPI, SlackClient</tags>
+    <repository type="Git" url="https://github.com/TomyCatomy/MercurySlackAPI" />
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Newtonsoft.Json" version="13.0.1" exclude="Build,Analyzers" />
+        <dependency id="Pagination" version="3.0.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Tom Dagan\Documents\GitHub\MercurySlackAPI\MercurySlackAPI\bin\Debug\netcoreapp3.1\MercurySlackAPI.dll" target="lib\netcoreapp3.1\MercurySlackAPI.dll" />
+    <file src="C:\Users\Tom Dagan\Downloads\LICENSE-2.0.txt" target="LICENSE-2.0.txt" />
+  </files>
+</package>
