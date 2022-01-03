@@ -6,7 +6,7 @@
     <Description>A convinient package to make the Slack API easier to use than ever before with dotnet:)</Description>
     <PackageTags>Slack, SlackAPI, SlackClient</PackageTags>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
-    <Version>1.1.2</Version>
+    <Version>1.1.3</Version>
     <PackageLicenseFile>LICENSE-2.0.txt</PackageLicenseFile>
     <PackageProjectUrl />
     <RepositoryUrl>https://github.com/TomyCatomy/MercurySlackAPI</RepositoryUrl>

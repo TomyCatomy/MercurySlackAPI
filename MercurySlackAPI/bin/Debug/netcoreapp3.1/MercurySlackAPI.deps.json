@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "MercurySlackAPI/1.1.2": {
+      "MercurySlackAPI/1.1.3": {
         "dependencies": {
           "Newtonsoft.Json": "13.0.1"
         },
@@ -25,7 +25,7 @@
     }
   },
   "libraries": {
-    "MercurySlackAPI/1.1.2": {
+    "MercurySlackAPI/1.1.3": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
