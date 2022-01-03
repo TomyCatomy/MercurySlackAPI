@@ -51,7 +51,7 @@
     "C:\\Users\\Tom Dagan\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.1.1",
+    "version": "1.1.2",
     "restore": {
       "projectUniqueName": "C:\\Users\\Tom Dagan\\Documents\\GitHub\\MercurySlackAPI\\MercurySlackAPI\\MercurySlackAPI.csproj",
       "projectName": "MercurySlackAPI",
