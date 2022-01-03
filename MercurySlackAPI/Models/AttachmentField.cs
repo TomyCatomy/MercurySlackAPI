@@ -6,8 +6,8 @@ namespace MercurySlackAPI.Models
 {
     public class AttachmentField
     {
-        string title { get; set; }
-        string value { get; set; }
-        bool @short { get; set; }
+        public string title { get; set; }
+        public string value { get; set; }
+        public bool @short { get; set; }
     }
 }
