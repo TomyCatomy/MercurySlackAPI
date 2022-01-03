@@ -10,5 +10,6 @@ namespace MercurySlackAPI.Models
     {
         public string color { get; set; }
         public List<Block> blocks { get; set; }
+        public List<AttachmentField> fields { get; set; }
     }
 }
